@@ -1,1 +1,1 @@
-This is a test file for using Git
+This is a test file for using Git Bash
